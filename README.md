@@ -6,10 +6,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100011309977657)
 <div style="display: inline_block"><br/>
 
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoVitt&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoVitt&layout=compact)
+<a href="https://github.com/yoVitt">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoVitt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoVitt&layout=compact&langs_count=16&theme=tokyonight&cache_seconds=1800"/>
+<br><br>
 
-## Command languages ​​that I know.
+## Stacks.
 
   <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
